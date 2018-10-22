@@ -1,7 +1,7 @@
 /* eslint no-underscore-dangle: 0 */
 /* eslint react/no-multi-comp: 0 */
 
-import PropTypes from 'prop-types';
+import PropTypes from 'prop-types'
 import { Rocket, RocketSpan, FinTop, FinBottom, Fire, Wastes } from './styledElements';
 
 // This function performs regex matching on expected shell output for git push result being input
